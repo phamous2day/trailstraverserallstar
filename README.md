@@ -13,6 +13,7 @@ Collect coins to level up different abilities
 
 #### Creative Commons
 ![creativecommons](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License.](http://creativecommons.org/licenses/by-nc/4.0/)
 
 This game, "Trails-Traverser All-Star", was crafted under the guidance of the mozilla tutorial, "HTML5 Games Workshop" by Belén "Benko" Albeza" [@ladybenko](https://twitter.com/ladybenko)

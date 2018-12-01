@@ -1,7 +1,5 @@
 # Trails-Traverser All-Star
 
-![previewofgame](images/trailtraversearPREVIEW.gif)
-
 [![previewofgame](images/trailtraversearPREVIEW.gif)](https://phamous2day.github.io/trailstraverserallstar/)
 
 ### Story
